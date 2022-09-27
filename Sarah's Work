@@ -1,1 +1,36 @@
 # Investigating edad, angulo, clase ad protrustion
+##   Misofonia Misofonia.dic     Estado Estado.dic ansiedad.rasgo
+## 1        si             4 divorciado          2             99
+## 2        si             2     casado          1             75
+## 3        no             0 divorciado          2             77
+## 4        si             3     casado          1             95
+## 5        no             0     casado          1             30
+## 6        no             0     casado          1             30
+##   ansiedad.rasgo.dic ansiedad.estado ansiedad.estado.dic ansiedad.medicada
+## 1                  1              99                   1                no
+## 2                  1              75                   1                no
+## 3                  1              55                   0                no
+## 4                  1              99                   1                no
+## 5                  0              40                   0                no
+## 6                  0              30                   0                no
+##   ansiedad.medicada.dic depresion depresion.dic Sexo Edad CLASE
+## 1                     0     33.65             1    M   44   III
+## 2                     0     19.77             0    M   43    II
+## 3                     0     29.57             0    M   24     I
+## 4                     0      1.40             0    M   33   III
+## 5                     0      5.98             0    H   41     I
+## 6                     0     13.87             0    H   35     I
+##   Angulo_convexidad protusion.mandibular Angulo_cuelloYtercio Subnasal_H
+## 1              7.97                 13.0                 89.6        1.5
+## 2             18.23                 -5.0                107.2        7.3
+## 3             12.27                 11.5                101.4        5.0
+## 4              7.81                 16.8                 75.3        2.7
+## 5              9.81                 33.0                105.5        6.0
+## 6             13.50                  2.0                105.0        7.0
+##   cambio.autoconcepto Misofonia.post Misofonia.pre ansiedad.dif
+## 1                   1             21            14            0
+## 2                   0             14            13            0
+## 3                  NA             NA            NA          -22
+## 4                   1             NA            NA            4
+## 5                  NA             NA            NA           10
+## 6                  NA             NA            NA            0
